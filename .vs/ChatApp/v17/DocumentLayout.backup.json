@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|c:\\users\\pc\\ftn modul 3\\chatapp\\chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|c:\\users\\pc\\ftn modul 3\\chatapp\\chatapp\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|c:\\users\\pc\\ftn modul 3\\chatapp\\chatapp\\service\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\service\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|c:\\users\\pc\\ftn modul 3\\chatapp\\chatapp\\service\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\service\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|c:\\users\\pc\\ftn modul 3\\chatapp\\chatapp\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\hub\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|c:\\users\\pc\\ftn modul 3\\chatapp\\chatapp\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7236C8B-FF17-415A-AD21-239076993B90}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Program.cs",
+              "RelativeToolTip": "ChatApp\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:17:14.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "ChatApp\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:16:50.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Hub\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Hub\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Hub\\ChatHub.cs",
+              "RelativeToolTip": "ChatApp\\Hub\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:15:31.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Service\\ChatService.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Service\\ChatService.cs",
+              "ToolTip": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Service\\ChatService.cs",
+              "RelativeToolTip": "ChatApp\\Service\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:14:29.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Service\\IChatService.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Service\\IChatService.cs",
+              "ToolTip": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Service\\IChatService.cs",
+              "RelativeToolTip": "ChatApp\\Service\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:13:21.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Model\\Message.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Model\\Message.cs",
+              "ToolTip": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\Model\\Message.cs",
+              "RelativeToolTip": "ChatApp\\Model\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T08:12:03.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
