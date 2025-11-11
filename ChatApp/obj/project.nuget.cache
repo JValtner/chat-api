@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sb08BlpbtJE=",
+  "dgSpecHash": "sPhXpBYxfzI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatApp\\ChatApp.csproj",
+  "projectFilePath": "C:\\Users\\PC\\ftn modul 3\\ChatApp\\ChatAppApi\\ChatApp\\ChatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.3.0\\microsoft.aspnetcore.authorization.2.3.0.nupkg.sha512",
